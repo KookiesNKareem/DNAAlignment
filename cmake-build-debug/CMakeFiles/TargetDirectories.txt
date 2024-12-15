@@ -1,0 +1,3 @@
+/Users/kareemfareed/CLionProjects/DNAAlignment/cmake-build-debug/CMakeFiles/DNAAlignment.dir
+/Users/kareemfareed/CLionProjects/DNAAlignment/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kareemfareed/CLionProjects/DNAAlignment/cmake-build-debug/CMakeFiles/rebuild_cache.dir
