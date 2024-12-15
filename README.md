@@ -1,5 +1,5 @@
 # Needleman-Wunsch Global Sequence Alignment
-This is a project implementing a global sequence alignment algorithm commonly used to align sequences of DNA for analysis.
+This project implements the Needleman-Wunsch algorithm, a fundamental approach for global sequence alignment in bioinformatics. It aligns two DNA sequences by maximizing similarity while introducing gaps where necessary, enabling researchers to analyze genetic similarity and variation. 
 
 # How It's Made:
 
